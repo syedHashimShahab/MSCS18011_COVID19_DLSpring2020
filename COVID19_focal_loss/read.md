@@ -4,7 +4,7 @@
 
 # Models
 
-[Models](https://drive.google.com/drive/u/3/folders/14glewmpw4_tBQOv6s6KnaIpWdXf9fIt0)
+[Models](https://drive.google.com/open?id=14glewmpw4_tBQOv6s6KnaIpWdXf9fIt0)
 
 
 # VGG 16 Accuracy
