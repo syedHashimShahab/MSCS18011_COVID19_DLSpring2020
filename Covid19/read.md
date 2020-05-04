@@ -1,6 +1,10 @@
 # DATASET
 **[Dataset](https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view)**
 
+# MODELS
+[Models](https://drive.google.com/open?id=1QECtn9NarIPTYOflrksL1UYWJe6rh3sI)
+
+
 # VGG-16 with 2 modified layers results
 Training loss during training: 0.019543
 
